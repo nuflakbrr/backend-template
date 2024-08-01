@@ -4,6 +4,9 @@
 # debug
 npm-debug.log*
 
+# prisma
+/prisma/generated/*
+
 # local env files
 .env
 
