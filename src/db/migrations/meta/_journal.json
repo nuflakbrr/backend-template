@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722707740162,
+      "tag": "0000_hesitant_amazoness",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722707827698,
+      "tag": "0001_famous_wind_dancer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722707858790,
+      "tag": "0002_normal_salo",
+      "breakpoints": true
+    }
+  ]
+}

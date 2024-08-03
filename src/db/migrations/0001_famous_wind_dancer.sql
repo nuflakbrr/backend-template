@@ -1,0 +1,1 @@
+ALTER TABLE `table` ADD `name` varchar(265) NOT NULL;
